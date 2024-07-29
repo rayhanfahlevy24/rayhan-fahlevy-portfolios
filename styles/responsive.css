@@ -118,7 +118,13 @@
     }
 
     .pre-title {
-        font-size: .7rem;
+        font-size: .6rem;
+        letter-spacing: .2rem;
+        padding-left: 25px;
+    }
+
+    .pre-title::before {
+        width: 15px;    
     }
 
     .hero-right img {

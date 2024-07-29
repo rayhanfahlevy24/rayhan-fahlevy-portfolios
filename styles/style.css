@@ -86,7 +86,7 @@ a {
 
 .pre-title {
     text-transform: uppercase;
-    letter-spacing: .5rem;
+    letter-spacing: .3rem;
     color: var(--secondaryTextColor);
     position: relative;
     padding-left: 40px;
